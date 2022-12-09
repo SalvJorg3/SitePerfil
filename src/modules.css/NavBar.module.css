@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #06283D;
+    list-style-type: none;
+    color: #EBFFFB;
+    font-size: 1.3rem;
+    letter-spacing: -0.05rem;
+}
+
+.navname {
+    margin: 20px;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 5rem;
+}
+
+
+
